@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538768890 source:c:\users\grosa\documents\projects\bst\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+
