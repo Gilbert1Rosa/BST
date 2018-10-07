@@ -4,3 +4,23 @@
 	<vector>
 	<stdlib.h>
 
+1538874939 source:c:\users\gilbert\documents\codigos\bst\main.cpp
+	<iostream>
+	<vector>
+	"BSTree.h"
+
+1538875519 c:\users\gilbert\documents\codigos\bst\bstree.h
+	"RecursiveTreeStrategy.h"
+
+1538875324 c:\users\gilbert\documents\codigos\bst\recursivetreestrategy.h
+	"TreeStrategy.h"
+	<iostream>
+
+1538874717 c:\users\gilbert\documents\codigos\bst\treestrategy.h
+	"TreeNode.h"
+
+1538875389 c:\users\gilbert\documents\codigos\bst\treenode.h
+
+1538875339 source:c:\users\gilbert\documents\codigos\bst\recursivetreestrategy.cpp
+	"RecursiveTreeStrategy.h"
+
