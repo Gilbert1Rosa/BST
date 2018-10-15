@@ -32,6 +32,14 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="BSTree.cpp" />
+		<Unit filename="BSTree.h" />
+		<Unit filename="RecursiveTreeStrategy.cpp" />
+		<Unit filename="RecursiveTreeStrategy.h" />
+		<Unit filename="RedBlackStrategy.cpp" />
+		<Unit filename="RedBlackStrategy.h" />
+		<Unit filename="TreeNode.h" />
+		<Unit filename="TreeStrategy.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

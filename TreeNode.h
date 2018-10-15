@@ -10,6 +10,7 @@ struct TreeNode
 {
     int data;
     TreeFlag color;
+    TreeNode* parent;
     TreeNode* left;
     TreeNode* right;
 
